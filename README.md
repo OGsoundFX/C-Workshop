@@ -59,10 +59,7 @@ int main() {
 }
 ```
 
-
-- main function int
-- printf with various examples
-- variable declaration (with data type sepcification)
+- to integer / to string etc.
 - scanf / printf demo (compare to gets.chomp)
 - function declaration (with data type specification)
 	- 
