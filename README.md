@@ -33,10 +33,35 @@
   ```
 - C gives you finer control over system resources, we'll talk about that later.
 
-
 ### Data types (the main ones)
-	- main function int
-	- printf with various examples
+- int: Used to store integers (whole numbers), typically with a size of 4 bytes on most systems.
+- char: Used to store single characters, typically 1 byte in size.
+- float: Used to store floating-point numbers (numbers with decimal points), typically with a size of 4 bytes.
+- double: Similar to float but with double precision, typically with a size of 8 bytes.
+- long int / long long (respectively 2,147,483,647 and 9,223,372,036,854,775,807, which is almost 10 quintillion)
+- _Bool: Used to store boolean values (true or false), typically 1 byte in size.
+- void: Used to indicate that a function does not return any value or to indicate a pointer to some unspecified type.
+```c
+#include <stdio.h>
+
+int main() {
+    int integerVar = 42;
+    float floatVar = 3.14;
+    char charVar = 'A';
+    char stringVar[] = "Hello, World!";
+
+    printf("Integer: %d\n", integerVar);
+    printf("Float: %f\n", floatVar);
+    printf("Character: %c\n", charVar);
+    printf("String: %s\n", stringVar);
+
+    return 0;
+}
+```
+
+
+- main function int
+- printf with various examples
 - variable declaration (with data type sepcification)
 - scanf / printf demo (compare to gets.chomp)
 - function declaration (with data type specification)
