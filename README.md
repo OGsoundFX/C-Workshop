@@ -1,14 +1,14 @@
 # C Basics Workshop
 **[SLIDES](https://docs.google.com/presentation/d/16rmg1Oifnsbdf33-vSmG6IgTEbmdf4l17njAq7KKY5w/edit#slide=id.g2c43ede4a78_0_10)**
-### Installation
-
-### Introduction: creation and history (3mn)
+## Installation
+Check if they can run the `cc` or `gcc` commands.
+## Introduction: creation and history (3mn)
 - The C programming language was created by Dennis Ritchie in 1972.
 - There were no "A" or "B" programming languages that directly preceded C. However, B was indeed a precursor to C. B was derived from BCPL (Basic Combined Programming Language)
 - C was initially created for internal use at Bell Laboratoies, C offered a good balance between high-level abstraction and low-level control
 - C's combination of portability, efficiency, and support for structured programming made it revolutionary and paved the way for modern systems programming languages.
 
-### Low level vs high level / C vs Ruby (10 mn)
+## Low level vs high level / C vs Ruby (10 mn)
 - high-level programming languages prioritize ease of use, while low-level programming languages offer more direct control
 - Examples of languages of various levels:
 1. **Low-Level Programming Languages**:
@@ -26,7 +26,7 @@
    - **Ruby**: Known for its simplicity and productivity, Ruby is a high-level language commonly used for web development and scripting.
    - **Swift**: Developed by Apple, Swift is a high-level language used for iOS, macOS, watchOS, and tvOS app development. It's designed to be modern, safe, and expressive.
 
-### Writting our first program in C "Hello World!"
+## Writting our first program in C "Hello World!"
 - In C, you have to explicitly define a main function as the entry point, whereas in Ruby, you directly write your code.
 - C requires manual compilation using a compiler like `cc` (C compiler), whereas Ruby doesn't require compilation as it's an interpreted language (where compilation is done automatically).
   ```bash
@@ -34,7 +34,7 @@
   ```
 - C gives you finer control over system resources, we'll talk about that later.
 
-### Data types (the main ones)
+## Data types (the main ones)
 - int: Used to store integers (whole numbers), typically with a size of 4 bytes on most systems.
 - char: Used to store single characters, typically 1 byte in size.
 - float: Used to store floating-point numbers (numbers with decimal points), typically with a size of 4 bytes.
@@ -59,7 +59,7 @@ int main() {
     return 0;
 }
 ```
-### Converters (to_s, to_i, to_f)
+## Converters (to_s, to_i, to_f)
 - To string
   ```c
   int num = 12;
@@ -90,14 +90,14 @@ int main() {
   }
   ```
   
-### User interface in the terminal: scanf vs gets.chomp
+## User interface in the terminal: scanf vs gets.chomp
+**See 3-converters folder**
 
-
-- function declaration (with data type specification)
-	- 
-- malloc?
-
-- pointers?
-
+## function declaration (with data type specification)
 - .even? in C
+- Let's have another example, before maybe? with int function() ?
 
+## Memory allocation and pointers (optional)
+- pointers
+- strings
+- malloc / realloc / free
