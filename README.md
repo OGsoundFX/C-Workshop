@@ -1,5 +1,6 @@
 # C Basics Workshop
 **[SLIDES](https://docs.google.com/presentation/d/16rmg1Oifnsbdf33-vSmG6IgTEbmdf4l17njAq7KKY5w/edit#slide=id.g2c43ede4a78_0_10)**
+### Installation
 
 ### Introduction: creation and history (3mn)
 - The C programming language was created by Dennis Ritchie in 1972.
@@ -58,9 +59,40 @@ int main() {
     return 0;
 }
 ```
+### Converters (to_s, to_i, to_f)
+- To string
+  ```c
+  int num = 12;
+  char str[20];
+  sprintf(str, "%d", num);
+  ```
+- To integer (atoi)
+  ```c
+  #include <stdio.h>
+  #include <stdlib.h>
 
-- to integer / to string etc.
-- scanf / printf demo (compare to gets.chomp)
+  int main() {
+    char str[] = "1485";
+    int num = atoi(str);
+    printf("%d\n", num);
+    return 0;
+  }
+  ```
+- To float {(float)num}
+  ```c
+  #include <stdio.h>
+
+  int main() {
+    int num = 12;
+    float fnum = (float)num;
+    printf("%f\n", fnum);
+    return 0;
+  }
+  ```
+  
+### User interface in the terminal: scanf vs gets.chomp
+
+
 - function declaration (with data type specification)
 	- 
 - malloc?
