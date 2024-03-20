@@ -121,6 +121,7 @@ int main() {
 - pointers
 
 ## Livecode: donwcase / upcase
+> note: Exercie in folder **7-UpcaseDowncase**
 - Introduction to the while loop
 - Introduction to the ASCII table
   ```bash
@@ -129,7 +130,8 @@ int main() {
 - Illustrate how to upcase or downcase with the +/-32
 
 ## Memory allocation and pointers (optional)
-- malloc / realloc / free
+> note: Exercie in folder **8-MemoryAllocation**
+- malloc / free
 - Simple example
 
 ## Challenges
