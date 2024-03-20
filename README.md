@@ -96,13 +96,26 @@ int main() {
 ## User interface in the terminal: scanf vs gets.chomp
 > note: Exercie in folder **4-PrintName**
 
-## function declaration (with data type specification)
-- .even? in C
-- Let's have another example, before maybe? with int function() ?
+## Function declaration (with data type specification)
+> note: Exercie in folder **5-EvenOrOdd**
+- We are going to write a program which asks the user for a number and reponds if it's even or odd
+- Introduction to if statement
+
+## Build in functions
+- printf()
+- strlen()
+- atoi()
+- strcmp(): This function is used to compare two strings. It returns 0 if the strings are equal, a negative value if the first string is lexicographically less than the second, and a positive value if the first string is lexicographically greater than the second.
+
+## Pointers and strings
+- pointers
+- strings & Null terminator
+- ASCII ? we can talk a bout in the converters methods with the - '0' or +'0' converter
+- while loop (upercase, lowercase)
 
 ## Memory allocation and pointers (optional)
-- pointers
-- strings
 - malloc / realloc / free
 
-- ASCII ? we can talk a bout in the converters methods with the - '0' or +'0' converter
+## Challenges
+- capitalize (HARD) -> maybe I could demonstrate capitalizing 1 word, and the final challenge woujld be capitalizing a string of words
+- check out other from 42
