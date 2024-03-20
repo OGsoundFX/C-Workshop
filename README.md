@@ -135,5 +135,8 @@ int main() {
 - Simple example
 
 ## Challenges
-- capitalize (HARD) -> maybe I could demonstrate capitalizing 1 word, and the final challenge woujld be capitalizing a string of words
+- redo challenges (.even?, downcase ...)
+- can you vote with user interaction?
 - check out other from 42
+     - rewrite string length
+- capitalize (HARD) -> maybe I could demonstrate capitalizing 1 word, and the final challenge woujld be capitalizing a string of words
