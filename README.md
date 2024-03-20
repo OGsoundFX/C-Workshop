@@ -115,14 +115,21 @@ int main() {
 > note: Exercie in folder **6-EvenOrOdd**
 - introduciton to the if statement
 
-## Pointers and strings
-- pointers
+## Strings & Pointers
 - strings & Null terminator
-- ASCII ? we can talk a bout in the converters methods with the - '0' or +'0' converter
-- while loop (upercase, lowercase)
+- pointers
+
+## Livecode: donwcase / upcase
+- Introduction to the while loop
+- Introduction to the ASCII table
+  ```bash
+  man ascii
+  ```
+- Illustrate how to upcase or downcase with the +/-32
 
 ## Memory allocation and pointers (optional)
 - malloc / realloc / free
+- Simple example
 
 ## Challenges
 - capitalize (HARD) -> maybe I could demonstrate capitalizing 1 word, and the final challenge woujld be capitalizing a string of words
