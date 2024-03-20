@@ -106,3 +106,7 @@ int main() {
 - malloc / realloc / free
 
 - ASCII ? we can talk a bout in the converters methods with the - '0' or +'0' converter
+
+## Challenges
+- capitalize
+- check out other from 42
