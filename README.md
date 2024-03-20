@@ -69,7 +69,7 @@ int main() {
   char str[20];
   sprintf(str, "%d", num);
   ```
-- To integer (atoi)
+- To integer: atoi() (ASCII to Integer)
   ```c
   #include <stdio.h>
   #include <stdlib.h>
@@ -81,7 +81,7 @@ int main() {
     return 0;
   }
   ```
-- To float {(float)num}
+- To float: (float)num
   ```c
   #include <stdio.h>
 
@@ -104,3 +104,5 @@ int main() {
 - pointers
 - strings
 - malloc / realloc / free
+
+- ASCII ? we can talk a bout in the converters methods with the - '0' or +'0' converter
