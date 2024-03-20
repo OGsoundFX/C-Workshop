@@ -117,6 +117,7 @@ int main() {
 
 ## Strings & Pointers
 - strings & Null terminator
+- bits and bytes
 - pointers
 
 ## Livecode: donwcase / upcase
