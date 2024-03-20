@@ -98,15 +98,19 @@ int main() {
 
 ## function declaration (with data type specification)
 - .even? in C
+- Introduction to if statement
 - Let's have another example, before maybe? with int function() ?
 
-## Memory allocation and pointers (optional)
+## Pointers and strings
 - pointers
-- strings
+- strings & Null terminator
+- while loop (upercase, lowercase)
+
+## Memory allocation and pointers (optional)
 - malloc / realloc / free
 
 - ASCII ? we can talk a bout in the converters methods with the - '0' or +'0' converter
 
 ## Challenges
-- capitalize
+- capitalize (HARD)
 - check out other from 42
