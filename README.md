@@ -35,8 +35,11 @@ Check if they can run the `cc` or `gcc` commands.
   ```
 - C gives you finer control over system resources, we'll talk about that later.
 
+## User interface in the terminal: scanf vs gets.chomp
+> note: Exercie in folder **2-PrintName**
+
 ## Data types (the main ones)
-> note: Exercie in folder **2-DataTypes**
+> note: Exercie in folder **3-DataTypes**
 - int: Used to store integers (whole numbers), typically with a size of 4 bytes on most systems.
 - char: Used to store single characters, typically 1 byte in size.
 - float: Used to store floating-point numbers (numbers with decimal points), typically with a size of 4 bytes.
@@ -61,8 +64,17 @@ int main() {
     return 0;
 }
 ```
+
+## Function declaration (with data type specification)
+> note: Exercie in folder **4-DeclaringFunctions**
+
+- In this section we introduce 2 concepts related to function declaration and data type handling:
+     - Functions are declare specifying the data type they are supposed to return
+     - If Functions require parameters, their data type also need to be specified
+     - Introduction to void.
+
 ## Converters (to_s, to_i, to_f)
-> note: Exercie in folder **3-Converters**
+> note: Exercie in folder **5-Converters**
 - To string
   ```c
   int num = 12;
@@ -92,20 +104,16 @@ int main() {
     return 0;
   }
   ```
-  
-## User interface in the terminal: scanf vs gets.chomp
-> note: Exercie in folder **4-PrintName**
 
-## Function declaration (with data type specification)
-> note: Exercie in folder **5-EvenOrOdd**
-- We are going to write a program which asks the user for a number and reponds if it's even or odd
-- Introduction to if statement
-
-## Build in functions
+## Build in functions in C
 - printf()
 - strlen()
 - atoi()
 - strcmp(): This function is used to compare two strings. It returns 0 if the strings are equal, a negative value if the first string is lexicographically less than the second, and a positive value if the first string is lexicographically greater than the second.
+
+## Live Code: .even?
+> note: Exercie in folder **6-EvenOrOdd**
+- introduciton to the if statement
 
 ## Pointers and strings
 - pointers
