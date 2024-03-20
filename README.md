@@ -104,12 +104,11 @@ int main() {
 ## Pointers and strings
 - pointers
 - strings & Null terminator
+- ASCII ? we can talk a bout in the converters methods with the - '0' or +'0' converter
 - while loop (upercase, lowercase)
 
 ## Memory allocation and pointers (optional)
 - malloc / realloc / free
-
-- ASCII ? we can talk a bout in the converters methods with the - '0' or +'0' converter
 
 ## Challenges
 - capitalize (HARD)
