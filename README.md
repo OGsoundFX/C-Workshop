@@ -96,10 +96,16 @@ int main() {
 ## User interface in the terminal: scanf vs gets.chomp
 > note: Exercie in folder **4-PrintName**
 
-## function declaration (with data type specification)
+## Function declaration (with data type specification)
 > note: Exercie in folder **5-EvenOrOdd**
 - We are going to write a program which asks the user for a number and reponds if it's even or odd
 - Introduction to if statement
+
+## Build in functions
+- printf()
+- strlen()
+- atoi()
+- strcmp(): This function is used to compare two strings. It returns 0 if the strings are equal, a negative value if the first string is lexicographically less than the second, and a positive value if the first string is lexicographically greater than the second.
 
 ## Pointers and strings
 - pointers
