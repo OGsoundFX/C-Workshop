@@ -111,5 +111,5 @@ int main() {
 - malloc / realloc / free
 
 ## Challenges
-- capitalize (HARD)
+- capitalize (HARD) -> maybe I could demonstrate capitalizing 1 word, and the final challenge woujld be capitalizing a string of words
 - check out other from 42
