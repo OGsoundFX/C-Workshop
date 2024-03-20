@@ -27,6 +27,7 @@ Check if they can run the `cc` or `gcc` commands.
    - **Swift**: Developed by Apple, Swift is a high-level language used for iOS, macOS, watchOS, and tvOS app development. It's designed to be modern, safe, and expressive.
 
 ## Writting our first program in C "Hello World!"
+> note: Exercie in folder **1-HelloWorld**
 - In C, you have to explicitly define a main function as the entry point, whereas in Ruby, you directly write your code.
 - C requires manual compilation using a compiler like `cc` (C compiler), whereas Ruby doesn't require compilation as it's an interpreted language (where compilation is done automatically).
   ```bash
@@ -35,6 +36,7 @@ Check if they can run the `cc` or `gcc` commands.
 - C gives you finer control over system resources, we'll talk about that later.
 
 ## Data types (the main ones)
+> note: Exercie in folder **2-DataTypes**
 - int: Used to store integers (whole numbers), typically with a size of 4 bytes on most systems.
 - char: Used to store single characters, typically 1 byte in size.
 - float: Used to store floating-point numbers (numbers with decimal points), typically with a size of 4 bytes.
@@ -60,6 +62,7 @@ int main() {
 }
 ```
 ## Converters (to_s, to_i, to_f)
+> note: Exercie in folder **3-Converters**
 - To string
   ```c
   int num = 12;
@@ -91,7 +94,7 @@ int main() {
   ```
   
 ## User interface in the terminal: scanf vs gets.chomp
-**See 3-converters folder**
+> note: Exercie in folder **4-PrintName**
 
 ## function declaration (with data type specification)
 - .even? in C
