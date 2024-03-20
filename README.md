@@ -97,9 +97,9 @@ int main() {
 > note: Exercie in folder **4-PrintName**
 
 ## function declaration (with data type specification)
-- .even? in C
+> note: Exercie in folder **5-EvenOrOdd**
+- We are going to write a program which asks the user for a number and reponds if it's even or odd
 - Introduction to if statement
-- Let's have another example, before maybe? with int function() ?
 
 ## Pointers and strings
 - pointers
