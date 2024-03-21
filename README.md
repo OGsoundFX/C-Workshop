@@ -74,7 +74,7 @@ int main() {
 > note: Exercie in folder **4-DeclaringFunctions**
 
 - In this section we introduce 2 concepts related to function declaration and data type handling:
-     - Functions are declare specifying the data type they are supposed to return
+     - Functions are declared specifying the data type they are supposed to return
      - If Functions require parameters, their data type also need to be specified
      - Introduction to void.
 
@@ -112,6 +112,8 @@ int main() {
 
 ## Built-in functions in C
 > note: Exercie in folder **6-EvenOrOdd** -> `strlen.c` file
+
+Here are a few examples of commonly used in-built functions:
 - printf()
 - strlen()
 - atoi()
@@ -119,29 +121,48 @@ int main() {
 
 ## Live Code: .even?
 > note: Exercie in folder **6-EvenOrOdd**
-- introduciton to the if statement
+
+Introduciton to the if statement:
+```c
+if (condition)
+{
+  // // code to execute
+}
+else
+{
+  // code to execute
+}
+```
 
 ## Strings & Pointers
 > note: Exercie in folder **7-Pointers**
-- strings & Null terminator
-- bits and bytes
-  - Illustrate with `defining_a_string.c` 
-- pointers
-  - Illustrate with `pointer.c` 
+- Strings are similar to an Array of characters and contain end with a **Null terminator**
+- Each character is made of 8 bits which corresponds to 1 byte of memory (Integers represent 4 bytes of memeory)
+  - See: `defining_a_string.c` 
+- A pointer is a variable that stores the memory address of another variable
+  - See: `pointer.c` 
 
 ## Livecode: donwcase / upcase
 > note: Exercie in folder **8-SimpleDowncase**
 - Introduction to the while loop
+  ```c
+  int i = 0;
+  while(i < 10)
+  {
+     // code to execute
+     i++; // incrementation
+  }
+  ```
 - Introduction to the ASCII table
   ```bash
   man ascii
   ```
-- Illustrate how to upcase or downcase with the +/-32
+- Illustration with the `simple-downcase.c` challenge.
 
 ## Memory allocation (optional)
 > note: Exercie in folder **9-MemoryAllocation**
-- malloc / free
-- Simple example
+- `malloc` allocates memory dynamically during runtime, while `free` deallocates previously allocated memory, preventing memory leaks and managing memory efficiently.
+- Illustration with the `malloc_and_free.c` challenge.
 
 ## Challenges
 - redo challenges (.even?, downcase ...)
