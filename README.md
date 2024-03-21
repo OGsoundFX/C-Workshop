@@ -166,13 +166,3 @@ else
 
 ## Challenges
 **[Challenges on Notion](https://www.notion.so/C-basics-Workshop-Challenges-9f77699ff305454dbb95a1da619cc495?pvs=4)**
-
-- Print "Hello World!"
-- Build an interface that asks the user their name and prints it in the console
-
-
-- redo challenges (.even?, downcase ...)
-- can you vote with user interaction?
-- check out other from 42
-     - rewrite string length
-- capitalize (HARD) -> maybe I could demonstrate capitalizing 1 word, and the final challenge woujld be capitalizing a string of words
