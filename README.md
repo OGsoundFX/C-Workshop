@@ -7,13 +7,13 @@
 
 ## Installation
 Check if they can run the `cc` or `gcc` commands.
-## Introduction: creation and history (3mn)
+## Introduction: creation and history
 - The C programming language was created by Dennis Ritchie in 1972.
 - There were no "A" or "B" programming languages that directly preceded C. However, B was indeed a precursor to C. B was derived from BCPL (Basic Combined Programming Language)
 - C was initially created for internal use at Bell Laboratoies, C offered a good balance between high-level abstraction and low-level control
 - C's combination of portability, efficiency, and support for structured programming made it revolutionary and paved the way for modern systems programming languages.
 
-## Low level vs high level / C vs Ruby (10 mn)
+## Low level vs high level / C vs Ruby
 - high-level programming languages prioritize ease of use, while low-level programming languages offer more direct control
 - Examples of languages of various levels:
 1. **Low-Level Programming Languages**:
