@@ -1,5 +1,10 @@
 # C Basics Workshop
 **[SLIDES](https://docs.google.com/presentation/d/16rmg1Oifnsbdf33-vSmG6IgTEbmdf4l17njAq7KKY5w/edit#slide=id.g2c43ede4a78_0_10)**
+
+**[CHALLENGES](https://www.notion.so/C-basics-Workshop-Challenges-9f77699ff305454dbb95a1da619cc495)**
+
+**[Caleb's C tutorials](https://www.youtube.com/playlist?list=PL_c9BZzLwBRKKqOc9TJz1pP0ASrxLMtp2)**
+
 ## Installation
 Check if they can run the `cc` or `gcc` commands.
 ## Introduction: creation and history (3mn)
