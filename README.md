@@ -105,7 +105,8 @@ int main() {
   }
   ```
 
-## Build in functions in C
+## Built-in functions in C
+> note: Exercie in folder **6-EvenOrOdd** -> `strlen.c` file
 - printf()
 - strlen()
 - atoi()
