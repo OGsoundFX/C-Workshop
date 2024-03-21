@@ -117,12 +117,13 @@ int main() {
 - introduciton to the if statement
 
 ## Strings & Pointers
+> note: Exercie in folder **7-Pointers**
 - strings & Null terminator
 - bits and bytes
 - pointers
 
 ## Livecode: donwcase / upcase
-> note: Exercie in folder **7-SimpleDowncase**
+> note: Exercie in folder **8-SimpleDowncase**
 - Introduction to the while loop
 - Introduction to the ASCII table
   ```bash
@@ -131,7 +132,7 @@ int main() {
 - Illustrate how to upcase or downcase with the +/-32
 
 ## Memory allocation and pointers (optional)
-> note: Exercie in folder **8-MemoryAllocation**
+> note: Exercie in folder **9-MemoryAllocation**
 - malloc / free
 - Simple example
 
