@@ -105,7 +105,8 @@ int main() {
   }
   ```
 
-## Build in functions in C
+## Built-in functions in C
+> note: Exercie in folder **6-EvenOrOdd** -> `strlen.c` file
 - printf()
 - strlen()
 - atoi()
@@ -121,7 +122,7 @@ int main() {
 - pointers
 
 ## Livecode: donwcase / upcase
-> note: Exercie in folder **7-UpcaseDowncase**
+> note: Exercie in folder **7-SimpleDowncase**
 - Introduction to the while loop
 - Introduction to the ASCII table
   ```bash
