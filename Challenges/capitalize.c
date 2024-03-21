@@ -18,7 +18,7 @@ char *capitalize(char *str) {
 }
 
 int main() {
-  char str[] = "hello world";
+  char str[] = "hello my dear batch of students";
   printf("%s\n", capitalize(str));
   return 0;
 }
