@@ -120,7 +120,9 @@ int main() {
 > note: Exercie in folder **7-Pointers**
 - strings & Null terminator
 - bits and bytes
+  - Illustrate with `defining_a_string.c` 
 - pointers
+  - Illustrate with `pointer.c` 
 
 ## Livecode: donwcase / upcase
 > note: Exercie in folder **8-SimpleDowncase**
