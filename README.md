@@ -131,7 +131,7 @@ int main() {
   ```
 - Illustrate how to upcase or downcase with the +/-32
 
-## Memory allocation and pointers (optional)
+## Memory allocation (optional)
 > note: Exercie in folder **9-MemoryAllocation**
 - malloc / free
 - Simple example
