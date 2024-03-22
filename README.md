@@ -8,7 +8,7 @@
 ## Installation
 Check if they can run the `cc` or `gcc` commands.
 ## Introduction: creation and history
-- The C programming language was created by Dennis Ritchie in 1972.
+- The C programming language was created by Dennis Ritchie in 1972, it was first designed to be an internal language for the company he worked for: Bell laboratories.
 - There were no "A" or "B" programming languages that directly preceded C. However, B was indeed a precursor to C. B was derived from BCPL (Basic Combined Programming Language)
 - C was initially created for internal use at Bell Laboratoies, C offered a good balance between high-level abstraction and low-level control
 - C's combination of portability, efficiency, and support for structured programming made it revolutionary and paved the way for modern systems programming languages.
@@ -30,6 +30,10 @@ Check if they can run the `cc` or `gcc` commands.
    - **JavaScript**: Often used for web development, JavaScript is a high-level language that runs in web browsers, providing dynamic functionality to web pages.
    - **Ruby**: Known for its simplicity and productivity, Ruby is a high-level language commonly used for web development and scripting.
    - **Swift**: Developed by Apple, Swift is a high-level language used for iOS, macOS, watchOS, and tvOS app development. It's designed to be modern, safe, and expressive.
+
+## Ruby
+Ruby was created by Yukihiro Matsumoto (Matz) and released in 1995. It's known for its simplicity and productivity, often used for web development, scripting, and other applications.
+The **Matz's Ruby Interpreter (MRI)**, which is the original Ruby interpreter, is implemented in C. This means that the core functionality of Ruby is written in C code.
 
 ## Writting our first program in C "Hello World!"
 > note: Exercie in folder **1-HelloWorld**
