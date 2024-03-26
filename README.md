@@ -7,7 +7,7 @@
 
 ## Installation
 Check if they can run the `cc` or `gcc` commands.
-## Introduction: creation and history
+## Introduction: A little bit of History / What about A & B ?
 - The C programming language was created by Dennis Ritchie in 1972, it was first designed to be an internal language for the company he worked for: Bell laboratories.
 - There were no "A" or "B" programming languages that directly preceded C. However, B was indeed a precursor to C. B was derived from BCPL (Basic Combined Programming Language)
 - C was initially created for internal use at Bell Laboratoies, C offered a good balance between high-level abstraction and low-level control
@@ -33,7 +33,7 @@ Check if they can run the `cc` or `gcc` commands.
 
 ## Ruby
 Ruby was created by Yukihiro Matsumoto (Matz) and released in 1995. It's known for its simplicity and productivity, often used for web development, scripting, and other applications.
-The **Matz's Ruby Interpreter (MRI)**, which is the original Ruby interpreter, is implemented in C. This means that the core functionality of Ruby is written in C code.
+The **Matz's Ruby Interpreter (MRI)**, which is the original Ruby interpreter, which executes Ruby code is implemented in C. The core functionality of Ruby is written in C code.
 
 ## Writting our first program in C "Hello World!"
 > note: Exercie in folder **1-HelloWorld**
