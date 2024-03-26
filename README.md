@@ -1,5 +1,5 @@
 # C Basics Workshop
-**[SLIDES](https://docs.google.com/presentation/d/16rmg1Oifnsbdf33-vSmG6IgTEbmdf4l17njAq7KKY5w/edit#slide=id.g2c43ede4a78_0_10)**
+**[SLIDES](https://docs.google.com/presentation/d/16rmg1Oifnsbdf33-vSmG6IgTEbmdf4l17njAq7KKY5w)**
 
 **[CHALLENGES](https://www.notion.so/C-basics-Workshop-Challenges-9f77699ff305454dbb95a1da619cc495?pvs=4)**
 
