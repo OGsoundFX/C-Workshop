@@ -73,7 +73,7 @@ int main() {
     return 0;
 }
 ```
-
+⚠️ `%d` is a standard format specifier in C for printing integers. 
 ## Function declaration (with data type specification)
 > note: Exercie in folder **4-DeclaringFunctions**
 
