@@ -5,6 +5,8 @@
 
 **[Caleb's C tutorials](https://www.youtube.com/playlist?list=PL_c9BZzLwBRKKqOc9TJz1pP0ASrxLMtp2)**
 
+**[Ruby Original Code](https://github.com/ruby/ruby)**
+
 ## Installation
 Check if they can run the `cc` or `gcc` commands.
 ## Introduction: A little bit of History / What about A & B ?
