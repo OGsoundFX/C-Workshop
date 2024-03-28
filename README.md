@@ -144,7 +144,9 @@ else
 > note: Exercie in folder **8-Pointers**
 - Strings are similar to an Array of characters and contain end with a **Null terminator**
 - Each character is made of 8 bits which corresponds to 1 byte of memory (Integers represent 4 bytes of memeory)
-  - See: `defining_a_string.c` 
+  - See: `defining_a_string.c`
+  - `char str[100];` is a variable déclaration. This syntax stores the data in the **stack** memory, which is accessed during compilation of the code. The allocation and deallocation are managed automatically by the compiler.
+  - `char *str;` is a pointer déclaration. The pointer points to memory location of the first character of the string. This is stored in the **heap**, which is a region of memory used for dynamic memory allocation. You manually need to allocate and free (deallocate) the memory.
 - A pointer is a variable that stores the memory address of another variable
   - See: `pointer.c` 
 
