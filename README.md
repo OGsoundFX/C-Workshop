@@ -168,9 +168,9 @@ else
 - Illustration with the `simple-downcase.c` challenge.
 
 ## Memory allocation (optional)
-> note: Exercie in folder **10-MemoryAllocation**
+> note: Exercie in folder **8-Pointers** using the syntax `char *str = (char *)malloc(sizeof(char) * 100);` and adding `free(str)` at the end.
 - `malloc` allocates memory dynamically during runtime, while `free` deallocates previously allocated memory, preventing memory leaks and managing memory efficiently.
 - Illustration with the `malloc_and_free.c` challenge.
-
+> note: Exercie in folder **10-MemoryAllocation** takes it one step further.
 ## Challenges
 **[Challenges on Notion](https://www.notion.so/C-basics-Workshop-Challenges-9f77699ff305454dbb95a1da619cc495?pvs=4)**
