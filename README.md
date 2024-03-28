@@ -84,7 +84,7 @@ int main() {
      - If Functions require parameters, their data type also need to be specified
      - Introduction to void.
 
-## Converters (to_s, to_i, to_f)
+## Conversion functions (to_s, to_i, to_f)
 > note: Exercie in folder **5-Converters**
 - To string
   ```c
@@ -115,7 +115,7 @@ int main() {
     return 0;
   }
   ```
-
+- In addition to conversion functions, there are functions that checks the data type of a variable. There are NO functions is C that return the datatype of an element such ay `typeof` in javascript, or `.class` in Ruby. See `5-Converters/isalpha.c` file.
 ## Built-in functions in C
 > note: Exercie in folder **6-BuildInFunctions** -> `strlen.c` and `strcmp.c` files
 
