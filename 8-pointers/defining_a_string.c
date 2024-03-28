@@ -7,5 +7,6 @@ int main() {
   printf("What is your name?\n");
   scanf("%s", str);
   printf("Hello %s\n", str);
+  // free(str);
   return 0;
 }
