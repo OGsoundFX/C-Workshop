@@ -117,7 +117,7 @@ int main() {
   ```
 
 ## Built-in functions in C
-> note: Exercie in folder **6-EvenOrOdd** -> `strlen.c` file
+> note: Exercie in folder **6-BuildInFunctions** -> `strlen.c` and `strcmp.c` files
 
 Here are a few examples of commonly used in-built functions:
 - printf()
@@ -126,7 +126,7 @@ Here are a few examples of commonly used in-built functions:
 - strcmp(): This function is used to compare two strings. It returns 0 if the strings are equal, a negative value if the first string is lexicographically less than the second, and a positive value if the first string is lexicographically greater than the second.
 
 ## Live Code: .even?
-> note: Exercie in folder **6-EvenOrOdd**
+> note: Exercie in folder **7-EvenOrOdd**
 
 Introduciton to the if statement:
 ```c
@@ -141,7 +141,7 @@ else
 ```
 
 ## Strings & Pointers
-> note: Exercie in folder **7-Pointers**
+> note: Exercie in folder **8-Pointers**
 - Strings are similar to an Array of characters and contain end with a **Null terminator**
 - Each character is made of 8 bits which corresponds to 1 byte of memory (Integers represent 4 bytes of memeory)
   - See: `defining_a_string.c` 
@@ -149,7 +149,7 @@ else
   - See: `pointer.c` 
 
 ## Livecode: donwcase / upcase
-> note: Exercie in folder **8-SimpleDowncase**
+> note: Exercie in folder **9-SimpleDowncase**
 - Introduction to the while loop
   ```c
   int i = 0;
@@ -166,7 +166,7 @@ else
 - Illustration with the `simple-downcase.c` challenge.
 
 ## Memory allocation (optional)
-> note: Exercie in folder **9-MemoryAllocation**
+> note: Exercie in folder **10-MemoryAllocation**
 - `malloc` allocates memory dynamically during runtime, while `free` deallocates previously allocated memory, preventing memory leaks and managing memory efficiently.
 - Illustration with the `malloc_and_free.c` challenge.
 
