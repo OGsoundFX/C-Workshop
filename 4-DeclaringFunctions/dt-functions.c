@@ -16,11 +16,16 @@ float float_number() {
   return 42.42;
 }
 
+double double_number() {
+  return 42.42;
+}
+
 int main() {
   printf("%c\n", single_char());
   printf("%s\n", string());
   printf("%d\n", number());
   printf("%f\n", float_number()); // float has 6 decimals. To print only 2 use the syntax bellow
   printf("%.2f\n", float_number());
+  printf("%f\n", double_number()); // double is a lot more precise
   return 0;
 }
