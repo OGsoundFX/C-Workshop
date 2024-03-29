@@ -116,6 +116,19 @@ int main() {
     return 0;
   }
   ```
+- The ASCII way of converting from String to Integer and vice versa:
+  ```c
+  #include <stdio.h>
+
+   int main() {
+     char num = '6';
+     int conv_num = num - '0';
+     printf("%d\n", conv_num);
+     num = conv_num + '0';
+     printf("%c\n", num);
+     return 0;
+   }
+  ```
 - In addition to conversion functions, there are functions that checks the data type of a variable. There are NO functions is C that return the datatype of an element such ay `typeof` in javascript, or `.class` in Ruby. See `5-Converters/isalpha.c` file.
 ## Built-in functions in C
 > note: Exercie in folder **6-BuildInFunctions** -> `strlen.c` and `strcmp.c` files
