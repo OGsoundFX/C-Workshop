@@ -11,6 +11,7 @@
 Check if they can run the `cc` or `gcc` commands.
 ## Introduction: A little bit of History / What about A & B ?
 - The C programming language was created by Dennis Ritchie in 1972, it was first designed to be an internal language for the company he worked for: Bell laboratories.
+- The transition of C to open source was a gradual process until the early 1990's.
 - There were no "A" or "B" programming languages that directly preceded C. However, B was indeed a precursor to C. B was derived from BCPL (Basic Combined Programming Language)
 - C was initially created for internal use at Bell Laboratoies, C offered a good balance between high-level abstraction and low-level control
 - C's combination of portability, efficiency, and support for structured programming made it revolutionary and paved the way for modern systems programming languages.
