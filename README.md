@@ -175,7 +175,7 @@ else
      i++; // incrementation
   }
   ```
-- Introduction to the ASCII table
+- Introduction to the ASCII table (American Standard Code for Information Interchange)
   ```bash
   man ascii
   ```
